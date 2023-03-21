@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oliDOlHhescapJ+IO3pCI4NsU9Q3xCXQv2TDh0AGS0FB7DlZbH4OpBNE6/IGTc+R6eJRFw1c+Qx9K/hCBu6c6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mantis\\PycharmProjects\\F-sharp Declarative\\MainProject\\MainProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mantis\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
