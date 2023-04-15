@@ -7,6 +7,9 @@
 
   <ItemGroup>
     <Compile Include="Program.fs" />
+    <Compile Include="ComplexTypes.fs" />
+    <Compile Include="Practice.fs" />
+    <Compile Include="Lists3.fs" />
   </ItemGroup>
 
 </Project>
