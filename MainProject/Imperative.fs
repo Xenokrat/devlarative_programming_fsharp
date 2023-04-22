@@ -7,6 +7,8 @@ let f n =
         fact_res
 
 // 47.4.2
+// 0 1 1 2 3 5 8 13 21
+// 0 1 2 3 4 5 6 7  8 
 let fibo (n : int) : int = 
     if n = 0 then 0
     elif n = 1 then 1
@@ -19,4 +21,4 @@ let fibo (n : int) : int =
             n1 := ! n2
             n2 := tmp
             cnt := ! cnt + 1
-        ! n2
+        ! n1
